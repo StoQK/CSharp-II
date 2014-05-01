@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\13. SolveListOfTasks\bin\Debug\_13.SolveListOfTasks.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\13. SolveListOfTasks\bin\Debug\_13.SolveListOfTasks.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\13. SolveListOfTasks\bin\Debug\_13.SolveListOfTasks.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\13. SolveListOfTasks\obj\Debug\13. SolveListOfTasks.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\13. SolveListOfTasks\obj\Debug\_13.SolveListOfTasks.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\13. SolveListOfTasks\obj\Debug\_13.SolveListOfTasks.pdb

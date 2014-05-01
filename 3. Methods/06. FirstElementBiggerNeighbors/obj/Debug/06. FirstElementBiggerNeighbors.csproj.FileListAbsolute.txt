@@ -1,0 +1,10 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\bin\Debug\_06.FirstElementBiggerNeighbors.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\bin\Debug\_06.FirstElementBiggerNeighbors.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\bin\Debug\_06.FirstElementBiggerNeighbors.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\bin\Debug\_05.BiggerNeighboringIntegerCheck.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\bin\Debug\_04.CountNumberInArray.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\bin\Debug\_05.BiggerNeighboringIntegerCheck.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\bin\Debug\_04.CountNumberInArray.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\obj\Debug\06. FirstElementBiggerNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\obj\Debug\_06.FirstElementBiggerNeighbors.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\06. FirstElementBiggerNeighbors\obj\Debug\_06.FirstElementBiggerNeighbors.pdb

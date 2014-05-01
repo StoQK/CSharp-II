@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\07. ConversionBetweenRandomSystems\bin\Debug\_07.ConversionBetweenRandomSystems.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\07. ConversionBetweenRandomSystems\bin\Debug\_07.ConversionBetweenRandomSystems.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\07. ConversionBetweenRandomSystems\bin\Debug\_07.ConversionBetweenRandomSystems.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\07. ConversionBetweenRandomSystems\obj\Debug\07. ConversionBetweenRandomSystems.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\07. ConversionBetweenRandomSystems\obj\Debug\_07.ConversionBetweenRandomSystems.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\07. ConversionBetweenRandomSystems\obj\Debug\_07.ConversionBetweenRandomSystems.pdb

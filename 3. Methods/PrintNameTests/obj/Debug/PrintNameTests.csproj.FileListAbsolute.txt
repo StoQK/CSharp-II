@@ -1,0 +1,7 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\PrintNameTests\bin\Debug\PrintNameTests.dll
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\PrintNameTests\bin\Debug\PrintNameTests.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\PrintNameTests\bin\Debug\_01.PrintNameMethod.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\PrintNameTests\bin\Debug\_01.PrintNameMethod.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\PrintNameTests\obj\Debug\PrintNameTests.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\PrintNameTests\obj\Debug\PrintNameTests.dll
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\PrintNameTests\obj\Debug\PrintNameTests.pdb

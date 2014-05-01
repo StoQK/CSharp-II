@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\08. SumUpToArraysOfDigits\bin\Debug\_08.SumUpToArraysOfDigits.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\08. SumUpToArraysOfDigits\obj\Debug\08. SumUpToArraysOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\08. SumUpToArraysOfDigits\bin\Debug\_08.SumUpToArraysOfDigits.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\08. SumUpToArraysOfDigits\bin\Debug\_08.SumUpToArraysOfDigits.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\08. SumUpToArraysOfDigits\obj\Debug\_08.SumUpToArraysOfDigits.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\08. SumUpToArraysOfDigits\obj\Debug\_08.SumUpToArraysOfDigits.pdb

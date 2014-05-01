@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\03. DecimalToHexConversion\bin\Debug\_03.DecimalToHexConversion.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\03. DecimalToHexConversion\bin\Debug\_03.DecimalToHexConversion.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\03. DecimalToHexConversion\bin\Debug\_03.DecimalToHexConversion.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\03. DecimalToHexConversion\obj\Debug\03. DecimalToHexConversion.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\03. DecimalToHexConversion\obj\Debug\_03.DecimalToHexConversion.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\03. DecimalToHexConversion\obj\Debug\_03.DecimalToHexConversion.pdb

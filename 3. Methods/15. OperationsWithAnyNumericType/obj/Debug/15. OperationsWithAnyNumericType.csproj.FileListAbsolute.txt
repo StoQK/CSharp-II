@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\15. OperationsWithAnyNumericType\bin\Debug\_15.OperationsWithAnyNumericType.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\15. OperationsWithAnyNumericType\obj\Debug\15. OperationsWithAnyNumericType.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\15. OperationsWithAnyNumericType\bin\Debug\_15.OperationsWithAnyNumericType.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\15. OperationsWithAnyNumericType\bin\Debug\_15.OperationsWithAnyNumericType.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\15. OperationsWithAnyNumericType\obj\Debug\_15.OperationsWithAnyNumericType.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\15. OperationsWithAnyNumericType\obj\Debug\_15.OperationsWithAnyNumericType.pdb

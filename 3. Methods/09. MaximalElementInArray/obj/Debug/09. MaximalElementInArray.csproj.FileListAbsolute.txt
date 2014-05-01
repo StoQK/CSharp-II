@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\09. MaximalElementInArray\bin\Debug\_09.MaximalElementInArray.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\09. MaximalElementInArray\bin\Debug\_09.MaximalElementInArray.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\09. MaximalElementInArray\bin\Debug\_09.MaximalElementInArray.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\09. MaximalElementInArray\obj\Debug\09. MaximalElementInArray.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\09. MaximalElementInArray\obj\Debug\_09.MaximalElementInArray.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\09. MaximalElementInArray\obj\Debug\_09.MaximalElementInArray.pdb

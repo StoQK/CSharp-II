@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\06. BinaryToHexConversion\bin\Debug\_06.BinaryToHexConversion.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\06. BinaryToHexConversion\bin\Debug\_06.BinaryToHexConversion.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\06. BinaryToHexConversion\bin\Debug\_06.BinaryToHexConversion.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\06. BinaryToHexConversion\obj\Debug\_06.BinaryToHexConversion.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\06. BinaryToHexConversion\obj\Debug\_06.BinaryToHexConversion.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\NumeralSystems\06. BinaryToHexConversion\obj\Debug\06. BinaryToHexConversion.csprojResolveAssemblyReference.cache

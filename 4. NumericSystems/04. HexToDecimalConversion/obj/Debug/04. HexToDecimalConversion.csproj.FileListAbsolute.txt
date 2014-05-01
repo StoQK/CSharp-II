@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\04. HexToDecimalConversion\bin\Debug\_04.HexToDecimalConversion.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\04. HexToDecimalConversion\bin\Debug\_04.HexToDecimalConversion.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\04. HexToDecimalConversion\bin\Debug\_04.HexToDecimalConversion.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\04. HexToDecimalConversion\obj\Debug\04. HexToDecimalConversion.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\04. HexToDecimalConversion\obj\Debug\_04.HexToDecimalConversion.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\04. HexToDecimalConversion\obj\Debug\_04.HexToDecimalConversion.pdb

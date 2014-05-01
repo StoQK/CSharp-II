@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\04. CountNumberInArray\bin\Debug\_04.CountNumberInArray.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\04. CountNumberInArray\bin\Debug\_04.CountNumberInArray.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\04. CountNumberInArray\bin\Debug\_04.CountNumberInArray.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\04. CountNumberInArray\obj\Debug\_04.CountNumberInArray.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\04. CountNumberInArray\obj\Debug\_04.CountNumberInArray.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\04. CountNumberInArray\obj\Debug\04. CountNumberInArray.csprojResolveAssemblyReference.cache

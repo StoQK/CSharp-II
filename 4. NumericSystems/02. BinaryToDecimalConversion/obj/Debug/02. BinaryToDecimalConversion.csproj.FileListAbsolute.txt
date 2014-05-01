@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\02. BinaryToDecimalConversion\bin\Debug\_02.BinaryToDecimalConversion.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\02. BinaryToDecimalConversion\bin\Debug\_02.BinaryToDecimalConversion.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\02. BinaryToDecimalConversion\bin\Debug\_02.BinaryToDecimalConversion.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\02. BinaryToDecimalConversion\obj\Debug\_02.BinaryToDecimalConversion.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\NumeralSystems\02. BinaryToDecimalConversion\obj\Debug\_02.BinaryToDecimalConversion.pdb

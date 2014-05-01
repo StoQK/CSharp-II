@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\03. LastDigitAsWord\bin\Debug\_03.LastDigitAsWord.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\03. LastDigitAsWord\obj\Debug\03. LastDigitAsWord.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\03. LastDigitAsWord\bin\Debug\_03.LastDigitAsWord.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\03. LastDigitAsWord\bin\Debug\_03.LastDigitAsWord.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\03. LastDigitAsWord\obj\Debug\_03.LastDigitAsWord.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Methods\03. LastDigitAsWord\obj\Debug\_03.LastDigitAsWord.pdb

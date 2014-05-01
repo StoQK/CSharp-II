@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\14. OperationsWithIntegers\bin\Debug\_14.OperationsWithIntegers.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\14. OperationsWithIntegers\bin\Debug\_14.OperationsWithIntegers.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\14. OperationsWithIntegers\bin\Debug\_14.OperationsWithIntegers.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\14. OperationsWithIntegers\obj\Debug\14. OperationsWithIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\14. OperationsWithIntegers\obj\Debug\_14.OperationsWithIntegers.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\14. OperationsWithIntegers\obj\Debug\_14.OperationsWithIntegers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\11. PolynomialAddition\bin\Debug\_11.PolynomialAddition.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\11. PolynomialAddition\bin\Debug\_11.PolynomialAddition.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\11. PolynomialAddition\bin\Debug\_11.PolynomialAddition.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\11. PolynomialAddition\obj\Debug\11. PolynomialAddition.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\11. PolynomialAddition\obj\Debug\_11.PolynomialAddition.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\11. PolynomialAddition\obj\Debug\_11.PolynomialAddition.pdb

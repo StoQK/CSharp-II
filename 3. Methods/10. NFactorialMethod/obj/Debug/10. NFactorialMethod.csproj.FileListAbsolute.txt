@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\10. NFactorialMethod\bin\Debug\_10.NFactorialMethod.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\10. NFactorialMethod\bin\Debug\_10.NFactorialMethod.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\10. NFactorialMethod\bin\Debug\_10.NFactorialMethod.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\10. NFactorialMethod\obj\Debug\10. NFactorialMethod.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\10. NFactorialMethod\obj\Debug\_10.NFactorialMethod.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\Methods\10. NFactorialMethod\obj\Debug\_10.NFactorialMethod.pdb
