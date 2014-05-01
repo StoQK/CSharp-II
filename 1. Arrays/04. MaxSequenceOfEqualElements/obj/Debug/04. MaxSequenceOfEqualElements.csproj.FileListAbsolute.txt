@@ -1,0 +1,12 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\04. MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe.config
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\04. MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache

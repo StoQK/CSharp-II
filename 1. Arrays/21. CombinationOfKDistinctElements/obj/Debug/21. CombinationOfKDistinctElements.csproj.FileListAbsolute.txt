@@ -1,0 +1,11 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\21. CombinationOfKDistinctElements\bin\Debug\_21.CombinationOfKDistinctElements.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\21. CombinationOfKDistinctElements\bin\Debug\_21.CombinationOfKDistinctElements.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\21. CombinationOfKDistinctElements\bin\Debug\_21.CombinationOfKDistinctElements.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\21. CombinationOfKDistinctElements\obj\Debug\_21.CombinationOfKDistinctElements.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\21. CombinationOfKDistinctElements\obj\Debug\_21.CombinationOfKDistinctElements.pdb
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\21. CombinationOfKDistinctElements\bin\Debug\_21.CombinationOfKDistinctElements.exe.config
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\21. CombinationOfKDistinctElements\obj\Debug\_21.CombinationOfKDistinctElements.exe
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\21. CombinationOfKDistinctElements\obj\Debug\_21.CombinationOfKDistinctElements.pdb
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\21. CombinationOfKDistinctElements\bin\Debug\_21.CombinationOfKDistinctElements.exe
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\21. CombinationOfKDistinctElements\bin\Debug\_21.CombinationOfKDistinctElements.pdb
+D:\Telerik\Academy\C# II\1. Масиви\Arrays\21. CombinationOfKDistinctElements\obj\Debug\21. CombinationOfKDistinctElements.csprojResolveAssemblyReference.cache

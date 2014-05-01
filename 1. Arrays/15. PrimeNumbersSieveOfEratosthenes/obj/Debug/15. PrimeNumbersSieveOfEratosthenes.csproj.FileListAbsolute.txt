@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\15. PrimeNumbersSieveOfEratosthenes\bin\Debug\_15.PrimeNumbersSieveOfEratosthenes.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\15. PrimeNumbersSieveOfEratosthenes\bin\Debug\_15.PrimeNumbersSieveOfEratosthenes.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\15. PrimeNumbersSieveOfEratosthenes\bin\Debug\_15.PrimeNumbersSieveOfEratosthenes.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\15. PrimeNumbersSieveOfEratosthenes\obj\Debug\15. PrimeNumbersSieveOfEratosthenes.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\15. PrimeNumbersSieveOfEratosthenes\obj\Debug\_15.PrimeNumbersSieveOfEratosthenes.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\15. PrimeNumbersSieveOfEratosthenes\obj\Debug\_15.PrimeNumbersSieveOfEratosthenes.pdb

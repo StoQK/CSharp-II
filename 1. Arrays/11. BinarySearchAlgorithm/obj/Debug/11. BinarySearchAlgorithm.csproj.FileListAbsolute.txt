@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\11. BinarySearchAlgorithm\obj\Debug\11. BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.pdb

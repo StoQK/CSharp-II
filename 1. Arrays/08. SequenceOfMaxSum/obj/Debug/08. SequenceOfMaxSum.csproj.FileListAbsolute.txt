@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\08. SequenceOfMaxSum\bin\Debug\_08.SequenceOfMaxSum.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\08. SequenceOfMaxSum\bin\Debug\_08.SequenceOfMaxSum.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\08. SequenceOfMaxSum\bin\Debug\_08.SequenceOfMaxSum.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\08. SequenceOfMaxSum\obj\Debug\_08.SequenceOfMaxSum.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Arrays\08. SequenceOfMaxSum\obj\Debug\_08.SequenceOfMaxSum.pdb
