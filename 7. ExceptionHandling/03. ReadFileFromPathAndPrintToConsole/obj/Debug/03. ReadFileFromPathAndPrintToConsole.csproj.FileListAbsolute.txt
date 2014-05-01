@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\03. ReadFileFromPathAndPrintToConsole\bin\Debug\_03.ReadFileFromPathAndPrintToConsole.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\03. ReadFileFromPathAndPrintToConsole\bin\Debug\_03.ReadFileFromPathAndPrintToConsole.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\03. ReadFileFromPathAndPrintToConsole\bin\Debug\_03.ReadFileFromPathAndPrintToConsole.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\03. ReadFileFromPathAndPrintToConsole\obj\Debug\_03.ReadFileFromPathAndPrintToConsole.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\03. ReadFileFromPathAndPrintToConsole\obj\Debug\_03.ReadFileFromPathAndPrintToConsole.pdb

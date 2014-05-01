@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\12. RemoveWordsListedInSomeTextFile\bin\Debug\_12.RemoveWordsListedInSomeTextFile.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\12. RemoveWordsListedInSomeTextFile\bin\Debug\_12.RemoveWordsListedInSomeTextFile.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\12. RemoveWordsListedInSomeTextFile\bin\Debug\_12.RemoveWordsListedInSomeTextFile.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\12. RemoveWordsListedInSomeTextFile\obj\Debug\_12.RemoveWordsListedInSomeTextFile.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\12. RemoveWordsListedInSomeTextFile\obj\Debug\_12.RemoveWordsListedInSomeTextFile.pdb

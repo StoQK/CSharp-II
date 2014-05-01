@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\05. NumberOfWorkDays\bin\Debug\_05.NumberOfWorkDays.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\05. NumberOfWorkDays\bin\Debug\_05.NumberOfWorkDays.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\05. NumberOfWorkDays\bin\Debug\_05.NumberOfWorkDays.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\05. NumberOfWorkDays\obj\Debug\_05.NumberOfWorkDays.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\05. NumberOfWorkDays\obj\Debug\_05.NumberOfWorkDays.pdb

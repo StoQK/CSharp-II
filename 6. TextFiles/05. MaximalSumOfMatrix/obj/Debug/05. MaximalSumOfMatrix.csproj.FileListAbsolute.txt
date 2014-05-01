@@ -1,0 +1,9 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\05. MaximalSumOfMatrix\bin\Debug\_05.MaximalSumOfMatrix.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\05. MaximalSumOfMatrix\bin\Debug\_05.MaximalSumOfMatrix.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\05. MaximalSumOfMatrix\bin\Debug\_05.MaximalSumOfMatrix.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\05. MaximalSumOfMatrix\obj\Debug\_05.MaximalSumOfMatrix.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\05. MaximalSumOfMatrix\obj\Debug\_05.MaximalSumOfMatrix.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\05. MaximalSumOfMatrix\obj\Debug\05. MaximalSumOfMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\05. MaximalSumOfMatrix\bin\Debug\_05.MaximalSumOfMatrix.exe.config
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\05. MaximalSumOfMatrix\obj\Debug\_05.MaximalSumOfMatrix.exe
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\05. MaximalSumOfMatrix\obj\Debug\_05.MaximalSumOfMatrix.pdb

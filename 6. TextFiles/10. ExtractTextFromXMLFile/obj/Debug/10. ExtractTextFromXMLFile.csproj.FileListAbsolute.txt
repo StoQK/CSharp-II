@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\10. ExtractTextFromXMLFile\bin\Debug\_10.ExtractTextFromXMLFile.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\10. ExtractTextFromXMLFile\bin\Debug\_10.ExtractTextFromXMLFile.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\10. ExtractTextFromXMLFile\bin\Debug\_10.ExtractTextFromXMLFile.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\10. ExtractTextFromXMLFile\obj\Debug\10. ExtractTextFromXMLFile.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\10. ExtractTextFromXMLFile\obj\Debug\_10.ExtractTextFromXMLFile.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\10. ExtractTextFromXMLFile\obj\Debug\_10.ExtractTextFromXMLFile.pdb

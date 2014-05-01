@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\06. SumSequenceOfIntegersAsString\bin\Debug\_06.SumSequenceOfIntegersAsString.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\06. SumSequenceOfIntegersAsString\bin\Debug\_06.SumSequenceOfIntegersAsString.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\06. SumSequenceOfIntegersAsString\bin\Debug\_06.SumSequenceOfIntegersAsString.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\06. SumSequenceOfIntegersAsString\obj\Debug\06. SumSequenceOfIntegersAsString.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\06. SumSequenceOfIntegersAsString\obj\Debug\_06.SumSequenceOfIntegersAsString.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\06. SumSequenceOfIntegersAsString\obj\Debug\_06.SumSequenceOfIntegersAsString.pdb

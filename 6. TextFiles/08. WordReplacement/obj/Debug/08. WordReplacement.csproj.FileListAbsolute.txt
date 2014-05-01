@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\08. WordReplacement\bin\Debug\_08.WordReplacement.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\08. WordReplacement\bin\Debug\_08.WordReplacement.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\08. WordReplacement\bin\Debug\_08.WordReplacement.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\08. WordReplacement\obj\Debug\08. WordReplacement.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\08. WordReplacement\obj\Debug\_08.WordReplacement.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\08. WordReplacement\obj\Debug\_08.WordReplacement.pdb

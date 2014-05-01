@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\11. DeleteAllWordsThatStartWithTest\bin\Debug\_11.DeleteAllWordsThatStartWithTest.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\11. DeleteAllWordsThatStartWithTest\bin\Debug\_11.DeleteAllWordsThatStartWithTest.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\11. DeleteAllWordsThatStartWithTest\bin\Debug\_11.DeleteAllWordsThatStartWithTest.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\11. DeleteAllWordsThatStartWithTest\obj\Debug\11. DeleteAllWordsThatStartWithTest.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\11. DeleteAllWordsThatStartWithTest\obj\Debug\_11.DeleteAllWordsThatStartWithTest.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\11. DeleteAllWordsThatStartWithTest\obj\Debug\_11.DeleteAllWordsThatStartWithTest.pdb

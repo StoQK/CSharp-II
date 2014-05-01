@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\13. WordCountNumberOfOccurences\bin\Debug\_13.WordCountNumberOfOccurences.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\13. WordCountNumberOfOccurences\bin\Debug\_13.WordCountNumberOfOccurences.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\13. WordCountNumberOfOccurences\bin\Debug\_13.WordCountNumberOfOccurences.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\13. WordCountNumberOfOccurences\obj\Debug\_13.WordCountNumberOfOccurences.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\13. WordCountNumberOfOccurences\obj\Debug\_13.WordCountNumberOfOccurences.pdb

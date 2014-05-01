@@ -1,0 +1,9 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\04. CompareTwoTextFiles\bin\Debug\_04.CompareTwoTextFiles.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\04. CompareTwoTextFiles\bin\Debug\_04.CompareTwoTextFiles.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\04. CompareTwoTextFiles\bin\Debug\_04.CompareTwoTextFiles.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\04. CompareTwoTextFiles\obj\Debug\04. CompareTwoTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\04. CompareTwoTextFiles\obj\Debug\_04.CompareTwoTextFiles.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\04. CompareTwoTextFiles\obj\Debug\_04.CompareTwoTextFiles.pdb
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\04. CompareTwoTextFiles\bin\Debug\_04.CompareTwoTextFiles.exe.config
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\04. CompareTwoTextFiles\obj\Debug\_04.CompareTwoTextFiles.exe
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\04. CompareTwoTextFiles\obj\Debug\_04.CompareTwoTextFiles.pdb

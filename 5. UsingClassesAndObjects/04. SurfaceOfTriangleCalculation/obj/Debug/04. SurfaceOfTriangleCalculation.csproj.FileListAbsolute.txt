@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\04. SurfaceOfTriangleCalculation\bin\Debug\_04.SurfaceOfTriangleCalculation.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\04. SurfaceOfTriangleCalculation\bin\Debug\_04.SurfaceOfTriangleCalculation.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\04. SurfaceOfTriangleCalculation\bin\Debug\_04.SurfaceOfTriangleCalculation.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\04. SurfaceOfTriangleCalculation\obj\Debug\04. SurfaceOfTriangleCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\04. SurfaceOfTriangleCalculation\obj\Debug\_04.SurfaceOfTriangleCalculation.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\UsingClassesAndObjects\04. SurfaceOfTriangleCalculation\obj\Debug\_04.SurfaceOfTriangleCalculation.pdb

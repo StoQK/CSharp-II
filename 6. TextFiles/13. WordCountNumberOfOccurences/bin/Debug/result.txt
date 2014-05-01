@@ -1,0 +1,4 @@
+﻿NBA - 9
+basketball - 4
+States - 2
+national - 1

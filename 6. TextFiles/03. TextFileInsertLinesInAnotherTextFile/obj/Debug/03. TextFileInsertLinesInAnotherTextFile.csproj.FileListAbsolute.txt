@@ -1,0 +1,8 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\TextFiles\03. TextFileInsertLinesInAnotherTextFile\bin\Debug\_03.TextFileInsertLinesInAnotherTextFile.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\TextFiles\03. TextFileInsertLinesInAnotherTextFile\bin\Debug\_03.TextFileInsertLinesInAnotherTextFile.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\TextFiles\03. TextFileInsertLinesInAnotherTextFile\bin\Debug\_03.TextFileInsertLinesInAnotherTextFile.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\TextFiles\03. TextFileInsertLinesInAnotherTextFile\obj\Debug\_03.TextFileInsertLinesInAnotherTextFile.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\TextFiles\03. TextFileInsertLinesInAnotherTextFile\obj\Debug\_03.TextFileInsertLinesInAnotherTextFile.pdb
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\03. TextFileInsertLinesInAnotherTextFile\bin\Debug\_03.TextFileInsertLinesInAnotherTextFile.exe.config
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\03. TextFileInsertLinesInAnotherTextFile\obj\Debug\_03.TextFileInsertLinesInAnotherTextFile.exe
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\03. TextFileInsertLinesInAnotherTextFile\obj\Debug\_03.TextFileInsertLinesInAnotherTextFile.pdb

@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\04. DownloadAFileFromTheInternet\bin\Debug\_04.DownloadAFileFromTheInternet.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\04. DownloadAFileFromTheInternet\bin\Debug\_04.DownloadAFileFromTheInternet.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\04. DownloadAFileFromTheInternet\bin\Debug\_04.DownloadAFileFromTheInternet.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\04. DownloadAFileFromTheInternet\obj\Debug\_04.DownloadAFileFromTheInternet.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\ExceptionHandling\04. DownloadAFileFromTheInternet\obj\Debug\_04.DownloadAFileFromTheInternet.pdb

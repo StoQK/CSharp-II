@@ -1,0 +1,9 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\07. SubstringReplacement\bin\Debug\_07.SubstringReplacement.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\07. SubstringReplacement\bin\Debug\_07.SubstringReplacement.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\07. SubstringReplacement\bin\Debug\_07.SubstringReplacement.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\07. SubstringReplacement\obj\Debug\07. SubstringReplacement.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\07. SubstringReplacement\obj\Debug\_07.SubstringReplacement.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\TextFiles\07. SubstringReplacement\obj\Debug\_07.SubstringReplacement.pdb
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\07. SubstringReplacement\bin\Debug\_07.SubstringReplacement.exe.config
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\07. SubstringReplacement\obj\Debug\_07.SubstringReplacement.exe
+D:\Telerik\Academy\C# II\6. Текстови файлове\TextFiles\07. SubstringReplacement\obj\Debug\_07.SubstringReplacement.pdb
