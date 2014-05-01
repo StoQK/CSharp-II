@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\03. PlatformInAMatrix\bin\Debug\_03.PlatformInAMatrix.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\03. PlatformInAMatrix\bin\Debug\_03.PlatformInAMatrix.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\03. PlatformInAMatrix\bin\Debug\_03.PlatformInAMatrix.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\03. PlatformInAMatrix\obj\Debug\_03.PlatformInAMatrix.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\03. PlatformInAMatrix\obj\Debug\_03.PlatformInAMatrix.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\03. PlatformInAMatrix\obj\Debug\03. PlatformInAMatrix.csprojResolveAssemblyReference.cache

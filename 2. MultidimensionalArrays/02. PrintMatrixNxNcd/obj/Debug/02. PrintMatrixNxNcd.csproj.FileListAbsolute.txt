@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\02. PrintMatrixNxNcd\bin\Debug\_02.PrintMatrixNxNcd.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\02. PrintMatrixNxNcd\bin\Debug\_02.PrintMatrixNxNcd.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\02. PrintMatrixNxNcd\bin\Debug\_02.PrintMatrixNxNcd.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\02. PrintMatrixNxNcd\obj\Debug\_02.PrintMatrixNxNcd.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\02. PrintMatrixNxNcd\obj\Debug\_02.PrintMatrixNxNcd.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\02. PrintMatrixNxNcd\obj\Debug\02. PrintMatrixNxNcd.csprojResolveAssemblyReference.cache

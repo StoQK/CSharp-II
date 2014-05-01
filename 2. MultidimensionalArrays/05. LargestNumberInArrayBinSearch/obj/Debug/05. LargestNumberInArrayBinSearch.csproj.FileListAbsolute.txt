@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\05. LargestNumberInArrayBinSearch\bin\Debug\_05.LargestNumberInArrayBinSearch.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\05. LargestNumberInArrayBinSearch\bin\Debug\_05.LargestNumberInArrayBinSearch.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\05. LargestNumberInArrayBinSearch\bin\Debug\_05.LargestNumberInArrayBinSearch.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\05. LargestNumberInArrayBinSearch\obj\Debug\_05.LargestNumberInArrayBinSearch.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\05. LargestNumberInArrayBinSearch\obj\Debug\_05.LargestNumberInArrayBinSearch.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\05. LargestNumberInArrayBinSearch\obj\Debug\05. LargestNumberInArrayBinSearch.csprojResolveAssemblyReference.cache

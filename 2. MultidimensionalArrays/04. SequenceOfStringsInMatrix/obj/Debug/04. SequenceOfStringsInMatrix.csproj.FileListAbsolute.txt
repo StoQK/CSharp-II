@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\04. SequenceOfStringsInMatrix\bin\Debug\_04.SequenceOfStringsInMatrix.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\04. SequenceOfStringsInMatrix\bin\Debug\_04.SequenceOfStringsInMatrix.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\04. SequenceOfStringsInMatrix\bin\Debug\_04.SequenceOfStringsInMatrix.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\04. SequenceOfStringsInMatrix\obj\Debug\04. SequenceOfStringsInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\04. SequenceOfStringsInMatrix\obj\Debug\_04.SequenceOfStringsInMatrix.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\04. SequenceOfStringsInMatrix\obj\Debug\_04.SequenceOfStringsInMatrix.pdb

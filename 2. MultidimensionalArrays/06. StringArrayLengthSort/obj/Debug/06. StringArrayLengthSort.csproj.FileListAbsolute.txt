@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\06. StringArrayLengthSort\bin\Debug\_06.StringArrayLengthSort.exe.config
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\06. StringArrayLengthSort\bin\Debug\_06.StringArrayLengthSort.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\06. StringArrayLengthSort\bin\Debug\_06.StringArrayLengthSort.pdb
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\06. StringArrayLengthSort\obj\Debug\_06.StringArrayLengthSort.exe
+C:\Users\Stoyan\documents\visual studio 2013\Projects\MultidimensionalArrays\06. StringArrayLengthSort\obj\Debug\_06.StringArrayLengthSort.pdb
